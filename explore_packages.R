@@ -1,3 +1,8 @@
+#' ---
+#' output: github_document
+#' ---
+
+
 .libPaths()
 
 library(tidyverse)
