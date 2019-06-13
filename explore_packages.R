@@ -14,3 +14,5 @@ ipt <- installed.packages() %>%
   select(Package, LibPath, Version, Priority, Built) %>%
   write_csv("../packages-report/installed-packages.csv")
 ipt
+
+# A comment added on GitHUb via the browser
