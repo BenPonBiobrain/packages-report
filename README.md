@@ -7,4 +7,5 @@ A line added from Github
 
 A local change in my README
 
-Let's cast a spell!
+
+Let's cast a spell! Wing-gar-dium Leviooosa
