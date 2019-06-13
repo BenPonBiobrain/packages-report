@@ -2,6 +2,7 @@
 #' output: github_document
 #' ---
 
+# adding the YAML above will render the R script into a md format which will be correctly displayed on Github.
 
 .libPaths()
 
